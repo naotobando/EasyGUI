@@ -4,6 +4,16 @@ https://github.com/user-attachments/assets/da629734-6ea7-4b88-82e1-12630bc480f9
 
 ※UMGは共通だが、キャラと立方体それぞれのBPからUIコンポーネントは生成されている
 
+<details>
+<summary>その他の利用例</summary>
+    
+![20251015192603_Animation](https://github.com/user-attachments/assets/e3047087-4141-435a-8b4c-883e714bb074)
+    
+![20250921114936_Animation](https://github.com/user-attachments/assets/8cfd44b7-7495-4eeb-b089-4d2f46314e0a)
+
+</details>
+
+
 # 実現したいこと
 
 PJ毎のUMGを準備なしで、プラグアンドプレイな感じで簡単にGUIを追加
